@@ -1,0 +1,17 @@
+com\civic\model\User.class
+com\civic\controller\AuthController.class
+com\civic\model\IssueStats.class
+com\civic\service\IssueService.class
+com\civic\model\AuthResponse.class
+com\civic\controller\IssueController.class
+com\civic\config\WebConfig.class
+com\civic\controller\UserController.class
+com\civic\model\Issue.class
+com\civic\repository\UserRepository.class
+com\civic\service\FileStorageService.class
+com\civic\security\JwtRequestFilter.class
+com\civic\config\SecurityConfig.class
+com\civic\security\JwtUtil.class
+com\civic\repository\IssueRepository.class
+com\civic\SmartCivicApplication.class
+com\civic\service\AuthService.class
